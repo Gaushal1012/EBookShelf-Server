@@ -1,0 +1,14 @@
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\bin\Debug\netcoreapp2.2\BookShelf.deps.json
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\bin\Debug\netcoreapp2.2\BookShelf.runtimeconfig.json
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\bin\Debug\netcoreapp2.2\BookShelf.runtimeconfig.dev.json
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\bin\Debug\netcoreapp2.2\BookShelf.dll
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.csprojAssemblyReference.cache
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.csproj.CoreCompileInputs.cache
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.RazorAssemblyInfo.cache
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.RazorAssemblyInfo.cs
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.AssemblyInfoInputs.cache
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.AssemblyInfo.cs
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.RazorTargetAssemblyInfo.cache
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\bin\Debug\netcoreapp2.2\BookShelf.pdb
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.dll
+C:\Users\dholiyga\Documents\dotnet\Ebookshelf\BookShelf\BookShelf\obj\Debug\netcoreapp2.2\BookShelf.pdb
